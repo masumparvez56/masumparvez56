@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="Black and White Illustrative Manager LinkedIn Banner.png" alt="Masum Parvez Banner"/>
+  <img src="Black and White LinkedIn Banner.png" alt="Masum Parvez Banner"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Masum Parvez</h1>
